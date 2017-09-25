@@ -312,7 +312,6 @@
                   "autoUpgradeMinorVersion": false,
                   "settings": {
                     "fileUris": [
-                      	"https://raw.githubusercontent.com/ms-robert/azurelabs/master/azurechina/vmss-ubuntu-md-autoscale/do_work.php",
 			"https://raw.githubusercontent.com/ms-robert/azurelabs/master/azurechina/vmss-ubuntu-md-autoscale/index.php",
 			"https://raw.githubusercontent.com/ms-robert/azurelabs/master/azurechina/vmss-ubuntu-md-autoscale/install_lap.sh"
                     ],
